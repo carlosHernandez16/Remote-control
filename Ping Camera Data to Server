@@ -1,0 +1,5 @@
+# This file is meant to take camera data when recording begins and ping the information to the backend.
+# Kind of like apple screen share, although instead of sharing the info of one screen to another, you are more sharing the camera feed to the backend.
+# Think of applications like facetime, zoom, instagram live, etc. 
+# At the very begining all this file is meant to do is simply send the camera feed so that can be displayed in 2D
+# Later addition of being able to do in full VR comes later

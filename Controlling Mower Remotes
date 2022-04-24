@@ -1,0 +1,3 @@
+# This file will be mainly compromised of movement control algorithms and combined control input processing
+# Driving a gasoline lawn mower the amount of output the engine gives the wheels can be controlled by two levers
+# Analog motor power control, braking on left wheel, braking on right wheel, power to wheel vs power to blade control
